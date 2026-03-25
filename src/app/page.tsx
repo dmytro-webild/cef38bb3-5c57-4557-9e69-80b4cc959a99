@@ -33,22 +33,22 @@ export default function LandingPage() {
         {
           name: "Accueil",
           id: "hero",
-          href: "#hero",
+
         },
         {
           name: "Menu",
           id: "menu",
-          href: "#menu",
+
         },
         {
           name: "À Propos",
           id: "about",
-          href: "#about",
+
         },
         {
           name: "Contact",
           id: "contact",
-          href: "#contact",
+
         },
       ]}
       button={{
